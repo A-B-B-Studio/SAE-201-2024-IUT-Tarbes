@@ -1,0 +1,5926 @@
+fileFormatVersion: 2
+guid: e306e738906cb6d48b26e0e4ef03a318
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nain_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3584
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51f0608d704ac74c96a28836b6a7d76
+      internalID: -1742790725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 3584
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fd4c6a4a26c6f4faa3d5e3be672b61
+      internalID: -1212087051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 3584
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f199bab57682b604dabbdd5b8d70071b
+      internalID: 65362925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 3584
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fc5f62415985f48a5093f21368e918
+      internalID: 706942315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 3584
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e128bd7df6f023d41b7b51b31916c8be
+      internalID: 188979461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 3584
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3f8857caba8c742941c16ce0fffd3e
+      internalID: 790685642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 3584
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a621d25209cca6c4dbdf9fd84e675673
+      internalID: -2028352017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_7
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 3593
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01731475e736c4448c88482782e6bee
+      internalID: -1937249996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3520
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d83ebe83843254484a1891fcc5714f
+      internalID: 1118212024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 3520
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b909a9d4d198c8f4dbf7e7c0e5c70645
+      internalID: 1717306981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 3520
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff75dae4558c4c4ca1547982d082f6a
+      internalID: -334976325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3520
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f483780fedde6c84088cabf4e7c81c5a
+      internalID: 1586602395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 3520
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac44d13948797e54a963d2e117d5e0be
+      internalID: -472514059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3520
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59db4e86f8f733949a7921898969d515
+      internalID: -476867333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_14
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 3520
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dac2cd379a491845ac949a36cb41a60
+      internalID: -1322615161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3457
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78004aa2ef320214fb6d509632ec9c27
+      internalID: -1422529819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3457
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b76f499227f5345975f310141134de
+      internalID: 900518177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 3457
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2b28cfd561c3341a5f2d540025405a
+      internalID: 1947897164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 3457
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f4e0aba66d4ee4b91b694bff6cb329
+      internalID: 2002875318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_19
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 3457
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb10396579770548ba87a40fab1683b
+      internalID: 1711000963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_20
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 3457
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223716f624cea634a870585e748f4c74
+      internalID: 1464655789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 3457
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed465d1e19d24014594561ff5ff551f6
+      internalID: -1412030445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3393
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca681d75c7b5c6468cdf339ab00f001
+      internalID: -1801259811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 3393
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32f4abf4dbb5134980ef9b3b59495e7
+      internalID: -2095169312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3393
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a46ecdd6ae1a264a89358ba62c051a1
+      internalID: 1926645607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3393
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7962ede55f78c70439e907833562dbe8
+      internalID: 2138135810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_26
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3393
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0d559e1a4398148adb1303eda50429
+      internalID: -2098718827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_27
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 3393
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f562f4b14a49a4c8fb8662c496573b
+      internalID: -868045560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_28
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 3393
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb2fe8b1dce7f744ac7f78bce39b68e
+      internalID: -219804187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3329
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b59f9b0eae1b53449fcc12b88c6443d
+      internalID: 254893896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_30
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3327
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e092f9077a7045841bac6487d7a0f316
+      internalID: -1714648959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3327
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8125cf2ba291d4fa7f30e2861f68bf
+      internalID: -1201223907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3327
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f780f7f52c0fc084cba59b1e5bb9d8dd
+      internalID: -1805404552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_33
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 3327
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba44904b7f39044b9902d314a621d18
+      internalID: -622124767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3327
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb4c91de6bf20b4595dd10e1218e879
+      internalID: -568626584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_35
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 3327
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41ed552814ded64f865ef2f2d22c86d
+      internalID: 1141472578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_36
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 3327
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a2b18a1deab684ab29082cc92b84fe
+      internalID: 467027100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3265
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45e73bd7b6133e4096ea7f0718484d2
+      internalID: 1033296841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_38
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 3265
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01196612e4137df4a8b0334b580e2f5a
+      internalID: -1998605415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_39
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 3265
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c2244ca5045e14da606e20cbd4d688
+      internalID: -1614994872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_40
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3265
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7392a30bc77127643b54276905d8a938
+      internalID: -1493409080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_41
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 3265
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78d5bc9bec2d5a4493b505d1c966d4d
+      internalID: 1273369681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3265
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c686f845dc2cd544bbc20513fd94296
+      internalID: 1781847125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_43
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 3265
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca35d07a0f6c6b4e8b0729efc31e4d9
+      internalID: 822265365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_44
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 3265
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ec595a34c0e164c816067f9ec5ad3e
+      internalID: 1869483946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3201
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6971b8fc2b57d4948af5fbc2470c9746
+      internalID: 914878192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 3201
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cb258a1a9d2b540a906f03980b3635
+      internalID: -958830785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_47
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 3201
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2dec8bb2e49314dbc20c691df630c0
+      internalID: -1051641890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_48
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 3201
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f4e48c091ee7942816c7b776ed92d9
+      internalID: 2040646109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_49
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 3201
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b5d4f113e157047af9c77f3f62e25c
+      internalID: 854225154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_50
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 3201
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2f1f287c15afd4f97d1865db9938d1
+      internalID: -1059356760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_51
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 3201
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bac7314b1e0fb428f641dc3bbca7b5
+      internalID: 1263474865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_52
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 3201
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427b6a79ddbc56d459b7e1749c2d9948
+      internalID: -1316312279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_53
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3137
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b2e3d5979b79d4f96f276ca1ff8d03
+      internalID: -606440545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_54
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3137
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0efcbdd1627d243a9b6793aaea66b5
+      internalID: -957274205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_55
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3137
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae3404216c840747b0347aacb594717
+      internalID: 536523760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_56
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 3137
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a43f608ab86734d965103107676779
+      internalID: -1295266239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_57
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 3137
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e3c652b9f915342aedc54a123d54b7
+      internalID: -1183894887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_58
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3137
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4debe59b7d3b4c8468780c0ee0482e00
+      internalID: -612100429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_59
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 3137
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e05d4245d53ba4c8ad9e8029c2add5
+      internalID: 1040255927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_60
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 3137
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5452ab5002f50749a8ac22dfcc04647
+      internalID: 702953054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_61
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3074
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb4343ac7e2e94448561f61c5b6c495
+      internalID: -2128612996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_62
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 3073
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe8458af72c4d34b975f2fb2d513020
+      internalID: 832693490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_63
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3071
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd883d4ee803c54abef1e8b58c2d30f
+      internalID: 589689064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_64
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 3071
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9261825a650ba4f84cf005fe452f21
+      internalID: -165023900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_65
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 3071
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c087624d50db9b47b579499a149a19c
+      internalID: 438783393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_66
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 3073
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278e2614d16a51b4b94bfb5477d5fac2
+      internalID: 83079751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_67
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3071
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb7c7df9ab2c6146ada93097136aaea
+      internalID: -2053348032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_68
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 3071
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eddbd10cfcc2e54fb4b27fa917e83a7
+      internalID: 1487382802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_69
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 3071
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c1c6dfa919cd540bc77f1b54528f84
+      internalID: -1074598500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3009
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cf2c57f6dc5af4abe640720614e243
+      internalID: -226279140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_71
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 3009
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d1e526967e74349bce1d6632b6f7e4
+      internalID: 700396911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_72
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3010
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0558847302c1af345a6291b16793972c
+      internalID: 714628647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_73
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3010
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d992ed81c9fdfd64986bce5e0a220d17
+      internalID: 826195496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_74
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 3009
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5e777b05cc9b54c8188289b9753020
+      internalID: -1964865232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_75
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 3009
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acbc62c26858b241922670e66a8cf73
+      internalID: -13341873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_76
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3009
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1bc2a5cbaf7534d85aeea1a464f740
+      internalID: 378924227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_77
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 3009
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b453dab07697316409cb06b87437409c
+      internalID: -1769882881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_78
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 3009
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447d3fd53d633b946acb030d49769ce6
+      internalID: -464177235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_79
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2944
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba98c3cdb6ed494593be1b4132d3db5
+      internalID: 1232464374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_80
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2944
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b238b84c78cd34687cc38463ed571b
+      internalID: 194096622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_81
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2944
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e0d8bab7735884da7291e2250f265b
+      internalID: -227502745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_82
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2943
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1106a8d1ee72fa04e8cf6224ad717ffc
+      internalID: 2062067487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_83
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2944
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892221427c007ec45838e7e9065643c2
+      internalID: 2011021726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_84
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2944
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247cdb74faffb0f40a3fd876868584a4
+      internalID: 1227341813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_85
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2944
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb580f7c14c4591478b89a45d28272b1
+      internalID: -771268284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_86
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2944
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8925706d144b9a84f939ec0a9bb0170e
+      internalID: -104683573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_87
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2944
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f7f351a7a2e3a4abae17f4a2021a97
+      internalID: 29152728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_88
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2880
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e48a9bdf7b50824ea4687c09d62671e
+      internalID: -1348981051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_89
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2880
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f9902c144f2ed469557a7a600a4d4d
+      internalID: -321349535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_90
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2882
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f99aafe004f284db797c81a2ab9d19
+      internalID: 307286562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_91
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2882
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c827ccc795b584db5dd9e796237266
+      internalID: 953746297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_92
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2880
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbd89801d5eaf946ae429afd643c073
+      internalID: -1358131471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_93
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2880
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea043ce9e9a8b3047a9885a7e8d1fa29
+      internalID: 885728205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_94
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2880
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ee252093b180d4380ab0a97442504d
+      internalID: -1486298671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_95
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2880
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c94a2a3835644c419f3735b1963a636
+      internalID: 440894462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_96
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2880
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc56a844dd7c4f649bb00e4d4cb71fb5
+      internalID: -1925452105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_97
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2816
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96367b7499ffe54ea03613c2e346416
+      internalID: 67039254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_98
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2816
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5d47bac1e4fc740b393ab994be0411
+      internalID: -1569527077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_99
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2816
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f03d0bfa199bb42873517b57cca884
+      internalID: -266343842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_100
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2816
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3a75a313e14bf418a7c14702506970
+      internalID: -463898779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_101
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2816
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134cae7023bf0144badea3eadb34e168
+      internalID: -141377739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_102
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2816
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb2257b45a01e5459e490679b2b9b05
+      internalID: -1632939481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_103
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2752
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c5a0a4d3351874f9e54384461bd178
+      internalID: -802514346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_104
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2752
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c3c65c606ee514e9658e93969611d7
+      internalID: -910141475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_105
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2752
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99b7af1b80845d41bcc0d465deb5ce4
+      internalID: -363920736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_106
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2752
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92725591bf8e82e45b93e49336156c3c
+      internalID: 461631012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_107
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2752
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5063ea9c5fbb44e9d5b7df01687e5f
+      internalID: -2058545552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_108
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2752
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14441d631abd5c42b6de5ebc623f61a
+      internalID: 877718652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_109
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2688
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4304d0ee896622d48a17e172fa95b7eb
+      internalID: -1089799685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_110
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2688
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccbe7dae8f31c848b1668842e475fd9
+      internalID: -1090247916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_111
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2688
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5def836a538c6f5418c91856ba15eb4c
+      internalID: 1144593338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_112
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2688
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947c04d196cf3944da4f4aeb6fb24217
+      internalID: -1872435077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_113
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2688
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0924e87b42ec0c44b9c53a9ae0dff3a0
+      internalID: 570541053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_114
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2688
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb262d228f8ee964d86c65d3c08fbe31
+      internalID: 756283474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_115
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2624
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd236252bad20f479020432a891b0ba
+      internalID: 2091319284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_116
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2624
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea32c22f7208e54b8f0b002d1a5fdbd
+      internalID: 253963685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_117
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2624
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deca1cb01de7bcc409c3f5c92507bf90
+      internalID: -639600486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_118
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2624
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06da11abc8d5a646ba7ff38d520a309
+      internalID: -1359612316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_119
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2624
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f168a5b01382fba4186b7e687d7864c7
+      internalID: -1708578648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_120
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2624
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b6861b20454ca4dabca9ef0aba818d
+      internalID: 968932949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2561
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc92580ad73ccd34c85b66ae3ae42904
+      internalID: 905451841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_122
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2560
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e030fe2482ddbbf4390eccf05ca7ad08
+      internalID: 1830288340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_123
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2558
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dee8749573ccc94ca10c41c7c08785d
+      internalID: 758455379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_124
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2558
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea89eed75b7f1a545975eee32a7aa38f
+      internalID: -691513272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_125
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2558
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627f420f66f108e4098b7b4f8873f36d
+      internalID: -1526279792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_126
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2558
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccf90bbacf1529478e3d46dbdfaa5bc
+      internalID: 1882028500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_127
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2558
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bd699f8042d794cbf0ba5b67dbccb3
+      internalID: -489445324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_128
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2558
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640194c8dc3821b4ab23e30584c8b5ce
+      internalID: -1195600783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_129
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2558
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c4b6ba2c4e4434c8d7ec5ec1c293bf
+      internalID: -1226874916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_130
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2558
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335cb6b9a62611d4486e32458b0c88b4
+      internalID: 1045993857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_131
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2558
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9b94e2b6768f94188885aff0008790
+      internalID: 1126882292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_132
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2558
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa420b47db81ca49b1d9adef2fe4c0e
+      internalID: -1975657267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_133
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2558
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d24c5d43a7f0043a17e24f5451a805
+      internalID: 888404156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_134
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2497
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33601a3752654724f8176ee9aa1b086a
+      internalID: -520052373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_135
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2497
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18eff17d86ac57242861100348054dbc
+      internalID: 1429206211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_136
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2497
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe40e71f6e24e24c8da976130e2410d
+      internalID: -2074585401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_137
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2497
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bed28c808f6d144af7b820f9af85ce
+      internalID: -1970945869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_138
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2497
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825cc6325618d4b4e9be038db530c969
+      internalID: 1777646960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_139
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2497
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0e736d806cade4b8a77f35291d4462
+      internalID: -1886780180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_140
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2497
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fee4bfb6c1f27449f6b5247126e39b
+      internalID: 566694927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_141
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2497
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eff657de514e9644ad13a6ad9586a1c
+      internalID: -630494713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_142
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2497
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dac90210db03043a7f0b2615e4895e
+      internalID: -993928238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_143
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2497
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75410ff44f63545479c86a9f73fd9d14
+      internalID: 1244390275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_144
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 2497
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f0ccf387b38e34baf827694a0a0b64
+      internalID: 1334913541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_145
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2497
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137bd83651d54a84fab977c0edb90c11
+      internalID: 446165861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_146
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2497
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372db5ae3dfe48940a51adeddca117e8
+      internalID: -1001584695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_147
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2433
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4663c32632ab94ab2a5a7f6d9bdcee
+      internalID: -379992277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_148
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2431
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4edd857b48a4e148bdfed55f63b596a
+      internalID: -1567952506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_149
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2433
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730d82f1d28f6c640abe32d4a4c5f756
+      internalID: -1872989060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_150
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2433
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fafc9723b3963c47b15168b2065a267
+      internalID: 678567823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_151
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2433
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286fdaa298264144cabd3827dfbb5277
+      internalID: -1694658718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_152
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2433
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307ff14af7ffedd479e7f0db7d6b5e64
+      internalID: 220404468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_153
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2433
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9e048dfdcc3654681d1ef076eee74b
+      internalID: 759309515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_154
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2433
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd575ecfc9bb6b47b3f1db80eedeec2
+      internalID: -1350749282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_155
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2433
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce80096014cb2243a74b6c0e78f514c
+      internalID: -1890124863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_156
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2433
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ab08502637ff34b9ab831d57f98d26
+      internalID: -1657339244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_157
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 2433
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c5a605b2068e44094aa56b6448e107
+      internalID: 1362676257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_158
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2433
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5252121504044948bd8a74ed9752c6c
+      internalID: 23110527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_159
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 2433
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89288abd54ed2ee4fa1be5f1306f0939
+      internalID: -1101828739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_160
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2369
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e38faae48e94d4492b1c47d5e745af
+      internalID: -1056358535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_161
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2369
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2a78655dc191e458983d57918ddcb6
+      internalID: -1038577761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_162
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2369
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a19826f0c187c4581355fd05d037a0
+      internalID: 236201677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_163
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2369
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e9183bc18cda146a7224d8077808f4
+      internalID: -10985913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_164
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2369
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e63dd786ab95854387488f6de3ab3d9
+      internalID: -464532823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_165
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2369
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81879b082a66779479575c948fa203c9
+      internalID: -1149130247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_166
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2369
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ab842da6d25ff4288f647a739c836e
+      internalID: -153942701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_167
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2369
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3082e1f8de00a4fbf021af791db5f9
+      internalID: -787225428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_168
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2369
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55e0e850e659ba47a8a3d336396a904
+      internalID: 1029837452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_169
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 2369
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863dfd488865f6142bf7c0c61a348be9
+      internalID: -1204546709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_170
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 2369
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ec59847230a9a449cdee2c67cd3fc4
+      internalID: -1616554586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_171
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2369
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81d800ca1c9e34498b44374d4f126fe
+      internalID: -1548112181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_172
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 2369
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f4388bf782d99488159a251eadda66
+      internalID: -864764963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_173
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2305
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74fda583c6306546a16d035b8c26165
+      internalID: 744413780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_174
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2305
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a7ebe13b2add64790033e5acc52f6d
+      internalID: 728371461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_175
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2305
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfcc3a333449d849974e76f4355936b
+      internalID: -204582158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_176
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2303
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f9ffd1b2c460f49a830806b5402dcf
+      internalID: 1139851596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_177
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2303
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9490518c2bd28ec479578a71f7caf75b
+      internalID: 41066787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_178
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2303
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a229bcbe9c14e4ca71697f21ee7da0
+      internalID: -1255538709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_179
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2303
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137aac13e2e0e704698bb5c54ee2d3c5
+      internalID: -711538103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_180
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2303
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82da19595cd32df40b00bc7032569a6a
+      internalID: -698906586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_181
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 2303
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f44199b210a764186bd4f145c7ad8c
+      internalID: -1802709626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_182
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2303
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0a028aa1fa434439b4249029099170
+      internalID: 1777010765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_183
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2177
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fd957634e6daf4cb4f05a1894519c1
+      internalID: 999425139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_184
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2175
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e44c209d0a4c924c982f5663db30562
+      internalID: -1270285497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_185
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2175
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a84e01c4d9a04d41b085f033aaf0fd6
+      internalID: 721138884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_186
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 2175
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e8b3a0b3f272f40babf03d11d6db61
+      internalID: 1889616391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_187
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2175
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368ba945eba838043a167ca70249e6a6
+      internalID: -1561680594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_188
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 2175
+        width: 86
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74eae127449613843b9a39678f638e57
+      internalID: 1380547224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_189
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1983
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee5862f79fb53a4e8ef2b9814e6c921
+      internalID: -1374476851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_190
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1984
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3ad35bf17591343a47b9dad8c30a8c
+      internalID: -386781083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_191
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1984
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6989f2ad929b44a49ad67365fba50405
+      internalID: -1834476987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_192
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1984
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c2b67bd037f3f4caa047d2fe49ba10
+      internalID: 421736119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_193
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1984
+        width: 104
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a1b1a4501576c4c8b72f7e8028ee14
+      internalID: 1317307162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_194
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1984
+        width: 102
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b408fb6ed2230ab4e9fbc534a2914b9a
+      internalID: 529069118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_195
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1790
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10344c00f276a941b94c0916c658378
+      internalID: 1488821682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_196
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1792
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01cbf88d9571a445ade770b026504bd
+      internalID: 285301154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_197
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1792
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f43050772e44743932abe069abaa45
+      internalID: 1885949508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_198
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1792
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec6b043d81ee0747b54913f584fd1bc
+      internalID: 81412258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_199
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1774
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e446d7e296e40194093691e6299701f7
+      internalID: 194896437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_200
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1776
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185ceae3d020bb049952e13df721f706
+      internalID: 88694074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_201
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1598
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f72be3738217a4ab1a0197ac70a326
+      internalID: 325621199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_202
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1601
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053bb2e1d03a9804caf75aec0efce10c
+      internalID: 291292465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_203
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1601
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad9c1b11c0970545bf7a1826863fc04
+      internalID: 408378636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_204
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1601
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4315a87a40969b4e91e4715b253f6dd
+      internalID: 98114734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_205
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1601
+        width: 103
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6baca87bc9d8fa4a98e9bffe3172580
+      internalID: -2046204423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_206
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1601
+        width: 104
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd1df0c2aac02041b6bca826a39e40c
+      internalID: 1009867265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_207
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1407
+        width: 84
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c837a1dcc3df955438ec4baf1a389a2a
+      internalID: -1314424346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_208
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1407
+        width: 79
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3f70866db85fe45a2e68fc22a69cda
+      internalID: -1966936308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_209
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1407
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fafdfc2ecdcca4d8803bb7efb4ed2d
+      internalID: -239494942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_210
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1407
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff50e8d33e64bf347838cfb9ebeb23db
+      internalID: 1338341845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_211
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1407
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4181497ff801540869ce1fa47ec0f9
+      internalID: 986430483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_212
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1409
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265677849c0aa864989eaa1934369a11
+      internalID: -1725470651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_213
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1217
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce2f3345c3c8b84ab3379702aa2df5d
+      internalID: -1930395692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_214
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1217
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53bb1bebcd65f3469dcd8547cb39d71
+      internalID: 1567370641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_215
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1217
+        width: 98
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbd2dfe8648de44187ed2a43444627b
+      internalID: 1641358770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_216
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1217
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe6b0e1650bf2449a394d164449767c
+      internalID: -1436168916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_217
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1217
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953e1a85147d679428d4c35754077846
+      internalID: 2085330747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_218
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1215
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf83ea7bf9c4fd4fbd95c70877e1149
+      internalID: -943532446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_219
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1024
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0cc58947b1f764fa22a3e22ea50e4d
+      internalID: 1962587005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_220
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1024
+        width: 78
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4946e5fa1c47424d87580d1c1efd87f
+      internalID: 1866308528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_221
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1024
+        width: 87
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92724787a8fd9a14288e81941253e310
+      internalID: 1483763964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_222
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1021
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b207bfbe92b588f44a89039244eb7399
+      internalID: -757772762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_223
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1024
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e301a4055d4678a408833fb77ae1b80e
+      internalID: 1366434892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_224
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1022
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7123190f57e75914283935ceb64c23d7
+      internalID: -234463329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_225
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 832
+        width: 103
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2844de651580246ba5e3d307ae4ec6
+      internalID: 490552755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_226
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 832
+        width: 104
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeee96d3801ea264b9ce17b8b09bfd50
+      internalID: 1446028786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_227
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 832
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f85b52a50503d348801c7d46764f0d2
+      internalID: -872252099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_228
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 832
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803f4e928ed56a04eb1e4c124637f098
+      internalID: 1795914306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_229
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 832
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dcc91607eb280468349bd21961f8b3
+      internalID: -1861935107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_230
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 830
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018e6a0d7b89c1f47a5521c9e21a7bd2
+      internalID: -511703998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_231
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 641
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6675ddc6607464d47b42ab4a909b63b3
+      internalID: 1092469050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_232
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 639
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc054991791e594f8d60d0a958526c5
+      internalID: -1366552644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_233
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 639
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca59504f118236419012e19b4739801
+      internalID: 885017499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_234
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 639
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b20f12fd438484c9edd0aa9b84e79a
+      internalID: 2115908348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_235
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 639
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa3fad4dbc6def44a679937f38da1f7
+      internalID: -1656548004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_236
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 639
+        width: 29
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa9b0296b8c02940b868155fb27e379
+      internalID: 391212541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_237
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 639
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00da06208d598da45a38e328e0b35319
+      internalID: -264008137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_238
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 639
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d95a9630a9d184f966ab3bedc0b90b
+      internalID: -22828364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_239
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 447
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cc534f4625f7848961b302e2430d3a
+      internalID: -1860772424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_240
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 449
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0173ea8213dbf8c43b906542b0af595c
+      internalID: -220382515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_241
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 449
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bfd7568c694704bb60c11adb7981f3
+      internalID: -689373985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_242
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 449
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7b2854f0ae9384da207b6fffc23ee0
+      internalID: -433512173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_243
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 449
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c162c5766fa737c4ab28386e897e6bfc
+      internalID: 240012240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_244
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 449
+        width: 75
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbc5c315889b424cb72073df0a22ffe
+      internalID: -2139676311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_245
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 449
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efccf26902b219341849646cb4053328
+      internalID: -1146280312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_246
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 449
+        width: 71
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ea7f1debcda4741b1551624eec9b34
+      internalID: 1844560746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_247
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 256
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57312463e9eeb1947a426f14a367b33e
+      internalID: 28522510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_248
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 256
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e6bff878bac484c89a6cfb41761d58
+      internalID: -937783556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_249
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 258
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f2bd1f247134f49a83d1251b5a74c1
+      internalID: 1626494143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_250
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 255
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcc744010c86f049a1ea8db668932da
+      internalID: 1652095618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_251
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 242
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd19a4a83b730c4c9dd38880eee429d
+      internalID: -1870211979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_252
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 232
+        width: 29
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce02c49b8d0b7ba448f826a1f691c96e
+      internalID: 2029082239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_253
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 242
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21878522130b4943b125bec7dfbc6a1
+      internalID: -1339306762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_254
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 255
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec3e844ae762664db36858139b2ca9a
+      internalID: 108103803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_255
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 62
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc7f4d9a222c5b4180f3170c5a35b01
+      internalID: -285857412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_256
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 64
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4543f421cf3d5d24880a8fb0682734bb
+      internalID: -1860539882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_257
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 64
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443c69e7d58c394418fbdbd677bac136
+      internalID: 1454107763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_258
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 64
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8f23e4eb2f0c04896259e037892641
+      internalID: 153894286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_259
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 64
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0485a1a340717ab469e56b996175868e
+      internalID: -892278164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_260
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 64
+        width: 73
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06844af4c66b954fa25719c488f9ee3
+      internalID: -2131518683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_261
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 64
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d30a28d37a0d74cb1ca1c68519f19a
+      internalID: 1130545001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nain_262
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 64
+        width: 71
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2717803235ef294986931ff24f92ce8
+      internalID: 342939334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      nain_0: -1742790725
+      nain_1: -1212087051
+      nain_10: -334976325
+      nain_100: -463898779
+      nain_101: -141377739
+      nain_102: -1632939481
+      nain_103: -802514346
+      nain_104: -910141475
+      nain_105: -363920736
+      nain_106: 461631012
+      nain_107: -2058545552
+      nain_108: 877718652
+      nain_109: -1089799685
+      nain_11: 1586602395
+      nain_110: -1090247916
+      nain_111: 1144593338
+      nain_112: -1872435077
+      nain_113: 570541053
+      nain_114: 756283474
+      nain_115: 2091319284
+      nain_116: 253963685
+      nain_117: -639600486
+      nain_118: -1359612316
+      nain_119: -1708578648
+      nain_12: -472514059
+      nain_120: 968932949
+      nain_121: 905451841
+      nain_122: 1830288340
+      nain_123: 758455379
+      nain_124: -691513272
+      nain_125: -1526279792
+      nain_126: 1882028500
+      nain_127: -489445324
+      nain_128: -1195600783
+      nain_129: -1226874916
+      nain_13: -476867333
+      nain_130: 1045993857
+      nain_131: 1126882292
+      nain_132: -1975657267
+      nain_133: 888404156
+      nain_134: -520052373
+      nain_135: 1429206211
+      nain_136: -2074585401
+      nain_137: -1970945869
+      nain_138: 1777646960
+      nain_139: -1886780180
+      nain_14: -1322615161
+      nain_140: 566694927
+      nain_141: -630494713
+      nain_142: -993928238
+      nain_143: 1244390275
+      nain_144: 1334913541
+      nain_145: 446165861
+      nain_146: -1001584695
+      nain_147: -379992277
+      nain_148: -1567952506
+      nain_149: -1872989060
+      nain_15: -1422529819
+      nain_150: 678567823
+      nain_151: -1694658718
+      nain_152: 220404468
+      nain_153: 759309515
+      nain_154: -1350749282
+      nain_155: -1890124863
+      nain_156: -1657339244
+      nain_157: 1362676257
+      nain_158: 23110527
+      nain_159: -1101828739
+      nain_16: 900518177
+      nain_160: -1056358535
+      nain_161: -1038577761
+      nain_162: 236201677
+      nain_163: -10985913
+      nain_164: -464532823
+      nain_165: -1149130247
+      nain_166: -153942701
+      nain_167: -787225428
+      nain_168: 1029837452
+      nain_169: -1204546709
+      nain_17: 1947897164
+      nain_170: -1616554586
+      nain_171: -1548112181
+      nain_172: -864764963
+      nain_173: 744413780
+      nain_174: 728371461
+      nain_175: -204582158
+      nain_176: 1139851596
+      nain_177: 41066787
+      nain_178: -1255538709
+      nain_179: -711538103
+      nain_18: 2002875318
+      nain_180: -698906586
+      nain_181: -1802709626
+      nain_182: 1777010765
+      nain_183: 999425139
+      nain_184: -1270285497
+      nain_185: 721138884
+      nain_186: 1889616391
+      nain_187: -1561680594
+      nain_188: 1380547224
+      nain_189: -1374476851
+      nain_19: 1711000963
+      nain_190: -386781083
+      nain_191: -1834476987
+      nain_192: 421736119
+      nain_193: 1317307162
+      nain_194: 529069118
+      nain_195: 1488821682
+      nain_196: 285301154
+      nain_197: 1885949508
+      nain_198: 81412258
+      nain_199: 194896437
+      nain_2: 65362925
+      nain_20: 1464655789
+      nain_200: 88694074
+      nain_201: 325621199
+      nain_202: 291292465
+      nain_203: 408378636
+      nain_204: 98114734
+      nain_205: -2046204423
+      nain_206: 1009867265
+      nain_207: -1314424346
+      nain_208: -1966936308
+      nain_209: -239494942
+      nain_21: -1412030445
+      nain_210: 1338341845
+      nain_211: 986430483
+      nain_212: -1725470651
+      nain_213: -1930395692
+      nain_214: 1567370641
+      nain_215: 1641358770
+      nain_216: -1436168916
+      nain_217: 2085330747
+      nain_218: -943532446
+      nain_219: 1962587005
+      nain_22: -1801259811
+      nain_220: 1866308528
+      nain_221: 1483763964
+      nain_222: -757772762
+      nain_223: 1366434892
+      nain_224: -234463329
+      nain_225: 490552755
+      nain_226: 1446028786
+      nain_227: -872252099
+      nain_228: 1795914306
+      nain_229: -1861935107
+      nain_23: -2095169312
+      nain_230: -511703998
+      nain_231: 1092469050
+      nain_232: -1366552644
+      nain_233: 885017499
+      nain_234: 2115908348
+      nain_235: -1656548004
+      nain_236: 391212541
+      nain_237: -264008137
+      nain_238: -22828364
+      nain_239: -1860772424
+      nain_24: 1926645607
+      nain_240: -220382515
+      nain_241: -689373985
+      nain_242: -433512173
+      nain_243: 240012240
+      nain_244: -2139676311
+      nain_245: -1146280312
+      nain_246: 1844560746
+      nain_247: 28522510
+      nain_248: -937783556
+      nain_249: 1626494143
+      nain_25: 2138135810
+      nain_250: 1652095618
+      nain_251: -1870211979
+      nain_252: 2029082239
+      nain_253: -1339306762
+      nain_254: 108103803
+      nain_255: -285857412
+      nain_256: -1860539882
+      nain_257: 1454107763
+      nain_258: 153894286
+      nain_259: -892278164
+      nain_26: -2098718827
+      nain_260: -2131518683
+      nain_261: 1130545001
+      nain_262: 342939334
+      nain_27: -868045560
+      nain_28: -219804187
+      nain_29: 254893896
+      nain_3: 706942315
+      nain_30: -1714648959
+      nain_31: -1201223907
+      nain_32: -1805404552
+      nain_33: -622124767
+      nain_34: -568626584
+      nain_35: 1141472578
+      nain_36: 467027100
+      nain_37: 1033296841
+      nain_38: -1998605415
+      nain_39: -1614994872
+      nain_4: 188979461
+      nain_40: -1493409080
+      nain_41: 1273369681
+      nain_42: 1781847125
+      nain_43: 822265365
+      nain_44: 1869483946
+      nain_45: 914878192
+      nain_46: -958830785
+      nain_47: -1051641890
+      nain_48: 2040646109
+      nain_49: 854225154
+      nain_5: 790685642
+      nain_50: -1059356760
+      nain_51: 1263474865
+      nain_52: -1316312279
+      nain_53: -606440545
+      nain_54: -957274205
+      nain_55: 536523760
+      nain_56: -1295266239
+      nain_57: -1183894887
+      nain_58: -612100429
+      nain_59: 1040255927
+      nain_6: -2028352017
+      nain_60: 702953054
+      nain_61: -2128612996
+      nain_62: 832693490
+      nain_63: 589689064
+      nain_64: -165023900
+      nain_65: 438783393
+      nain_66: 83079751
+      nain_67: -2053348032
+      nain_68: 1487382802
+      nain_69: -1074598500
+      nain_7: -1937249996
+      nain_70: -226279140
+      nain_71: 700396911
+      nain_72: 714628647
+      nain_73: 826195496
+      nain_74: -1964865232
+      nain_75: -13341873
+      nain_76: 378924227
+      nain_77: -1769882881
+      nain_78: -464177235
+      nain_79: 1232464374
+      nain_8: 1118212024
+      nain_80: 194096622
+      nain_81: -227502745
+      nain_82: 2062067487
+      nain_83: 2011021726
+      nain_84: 1227341813
+      nain_85: -771268284
+      nain_86: -104683573
+      nain_87: 29152728
+      nain_88: -1348981051
+      nain_89: -321349535
+      nain_9: 1717306981
+      nain_90: 307286562
+      nain_91: 953746297
+      nain_92: -1358131471
+      nain_93: 885728205
+      nain_94: -1486298671
+      nain_95: 440894462
+      nain_96: -1925452105
+      nain_97: 67039254
+      nain_98: -1569527077
+      nain_99: -266343842
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
