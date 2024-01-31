@@ -8,4 +8,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/village.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 33d2bae92def88a4b9e13d62916c4232
+  - enabled: 1
+    path: Assets/Scenes/CaveEnvironnement.unity
+    guid: 0c75e2dfb38be2f43a256d478f2d73a9
+  - enabled: 1
+    path: Assets/Scenes/introduction.unity
+    guid: 47384946c944f8847a61c32554f290a9
   m_configObjects: {}
