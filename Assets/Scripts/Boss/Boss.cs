@@ -8,6 +8,15 @@ public class Boss : MonoBehaviour
     private Transform player;
     private bool isFlipped = false;
 
+    public int MaxHealth = 200;
+    public int currentHealth;
+    public GameObject roche;
+
+    private void Start()
+    {
+        currentHealth = MaxHealth; 
+    }
+
     public void LookAtPlayer()
     {
         player = GameObject.FindGameObjectWithTag("Player").transform;
@@ -23,6 +32,20 @@ public class Boss : MonoBehaviour
         {
             transform.Rotate(0f, 0f, 0f);
             isFlipped = false;
+        }
+    }
+
+    void Update()
+    {
+        if (Input.GetAxis("Fire1") > 0f)
+        {
+            Instantiate(roche, transform.localPosition, Quaternion.identity);
+        }
+    }
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Player")
+        {
         }
     }
 }
