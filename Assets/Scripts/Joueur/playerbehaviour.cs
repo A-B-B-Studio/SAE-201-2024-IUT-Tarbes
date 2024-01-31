@@ -1,6 +1,7 @@
 
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using System.Collections;
 
 public class playerbehaviour : MonoBehaviour
 {
@@ -16,9 +17,12 @@ public class playerbehaviour : MonoBehaviour
     public Animator animator;
     public SpriteRenderer nain;
 
-    public string levelToLoad; 
+    public string levelToLoad;
 
-    
+    private Color originalColor;
+
+
+
     bool IsGrounded()
     {
         RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, groundedDistance, groundedMask);
@@ -37,6 +41,8 @@ public class playerbehaviour : MonoBehaviour
     void Start()
     {
         currentHealth = MaxHealth;
+        originalColor = nain.color;
+
     }
     void OnCollisionEnter2D(Collision2D collision)
     {
@@ -52,12 +58,29 @@ public class playerbehaviour : MonoBehaviour
         if (collision.gameObject.tag == "cailloux")
         {
             currentHealth -= 40;
+            StartCoroutine(FlashRed());
+
         }
-        if(collision.gameObject.tag == "Serpent")
+        if (collision.gameObject.tag == "Serpent")
         {
             currentHealth -= 40;
+            StartCoroutine(FlashRed());
+   
+
         }
     }
+    IEnumerator FlashRed()
+    {
+        // Changer la couleur du sprite en rouge
+        nain.color = Color.red;
+
+        // Attendre pendant 1 seconde
+        yield return new WaitForSeconds(0.5f);
+
+        // Rétablir la couleur d'origine
+        nain.color = originalColor;
+    }
+
 
     // Update is called once per frame
     void Update()

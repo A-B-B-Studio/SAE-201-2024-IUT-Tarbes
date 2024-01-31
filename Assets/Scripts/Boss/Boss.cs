@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using UnityEngine;
 
+
+
 public class Boss : MonoBehaviour
 {
     private Transform player;
@@ -17,9 +19,12 @@ public class Boss : MonoBehaviour
 
     float chrono = 0;
 
+    private Color originalColor;
+
     private void Start()
     {
         currentHealth = MaxHealth;
+        originalColor = GetComponent<SpriteRenderer>().color;
     }
 
     public void LookAtPlayer()
@@ -67,14 +72,26 @@ public class Boss : MonoBehaviour
             throw new System.ArgumentOutOfRangeException("Pas de niveau n�gatif");
         }
         currentHealth -= amount;
+        StartCoroutine(FlashRed());
 
         if (currentHealth <= 0)
         {
             Die();
         }
     }
+    IEnumerator FlashRed()
+    {
+        // Changer la couleur du sprite en rouge
+        GetComponent<SpriteRenderer>().color = Color.red;
 
-    private void Die()
+        // Attendre pendant 1 seconde
+        yield return new WaitForSeconds(1f);
+
+        // Rétablir la couleur d'origine
+        GetComponent<SpriteRenderer>().color = originalColor;
+    }
+
+        private void Die()
     {
         Debug.Log("Mort");
         Destroy(gameObject);
