@@ -1,6 +1,4 @@
-using System;
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class AttackAreaScript : MonoBehaviour
@@ -12,11 +10,17 @@ public class AttackAreaScript : MonoBehaviour
     private float betweenSetActiveCooldown;
     private Animator animator;
 
+    // Le délai après lequel le paramètre de déclenchement sera désactivé
+    private float resetTriggerDelay = 0.1f;
+
     // Start is called before the first frame update
     void Start()
     {
         attackArea = GameObject.FindGameObjectWithTag("AttackAreaPlayerTag");
         attackArea.SetActive(false);
+
+        // Récupérez le composant Animator
+        animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -27,7 +31,7 @@ public class AttackAreaScript : MonoBehaviour
         timer += Time.deltaTime;
     }
 
-    private void Attack ()
+    private void Attack()
     {
         if (betweenSetActiveCooldown >= 0.25f)
         {
@@ -47,11 +51,22 @@ public class AttackAreaScript : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Y) && attacking)
         {
             attackArea.SetActive(true);
-            
+
+            // Déclenchez l'animation d'attaque
+            animator.SetBool("IsAttacking", true);
 
             timer = 0f;
-
             attacking = false;
+
+            // Désactivez le paramètre de déclenchement après le délai spécifié
+            StartCoroutine(ResetAttackFlag());
         }
+    }
+
+    // Coroutine pour réinitialiser le paramètre de déclenchement après un délai
+    IEnumerator ResetAttackFlag()
+    {
+        yield return new WaitForSeconds(resetTriggerDelay);
+        animator.SetBool("IsAttacking", false);
     }
 }
