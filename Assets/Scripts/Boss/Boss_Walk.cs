@@ -24,14 +24,17 @@ public class Boss_Walk : StateMachineBehaviour
     {
         boss.LookAtPlayer();
 
-        Vector2 targetPosition = new Vector2(player.position.x, bossRB.position.y);
-        Vector2 newPosition = Vector2.MoveTowards(bossRB.position, targetPosition, speed * Time.deltaTime);
-        bossRB.MovePosition(newPosition);
+        if (player.position.x > -10)
+        {
+            Vector2 targetPosition = new Vector2(player.position.x, bossRB.position.y);
+            Vector2 newPosition = Vector2.MoveTowards(bossRB.position, targetPosition, speed * Time.deltaTime);
+            bossRB.MovePosition(newPosition);
+        }
     }
 
     // OnStateExit is called when a transition ends and the state machine finishes evaluating this state
     override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-       
+
     }
 }

@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - boss
+  - cailloux
+  - Serpent
+  - AttackAreaPlayerTag
   layers:
   - Default
   - TransparentFX

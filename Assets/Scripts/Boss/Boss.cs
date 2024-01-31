@@ -12,9 +12,14 @@ public class Boss : MonoBehaviour
     public int currentHealth;
     public GameObject roche;
 
+    public float timeToShoot = 2;
+    public float randomRange = 1f;
+
+    float chrono = 0;
+
     private void Start()
     {
-        currentHealth = MaxHealth; 
+        currentHealth = MaxHealth;
     }
 
     public void LookAtPlayer()
@@ -25,9 +30,8 @@ public class Boss : MonoBehaviour
         {
             transform.Rotate(0f, 180f, 0f);
             isFlipped = true;
-
         }
-        
+
         if (transform.position.x > player.position.x && isFlipped)
         {
             transform.Rotate(0f, 0f, 0f);
@@ -37,15 +41,42 @@ public class Boss : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetAxis("Fire1") > 0f)
+        if (player.position.x > -10)
         {
-            Instantiate(roche, transform.localPosition, Quaternion.identity);
+            if (Input.GetAxis("Fire1") > 0f)
+            {
+                Instantiate(roche, transform.localPosition, Quaternion.identity);
+            }
+
+            chrono += Time.deltaTime;
+            if (chrono > timeToShoot)
+            {
+                Instantiate(roche, transform.localPosition, Quaternion.identity);
+                chrono = Random.Range(-randomRange, randomRange);
+            }
         }
     }
-    void OnCollisionEnter2D(Collision2D collision)
+
+
+
+
+    public void Damage(int amount)
     {
-        if (collision.gameObject.tag == "Player")
+        if (amount < 0)
         {
+            throw new System.ArgumentOutOfRangeException("Pas de niveau n�gatif");
         }
+        currentHealth -= amount;
+
+        if (currentHealth <= 0)
+        {
+            Die();
+        }
+    }
+
+    private void Die()
+    {
+        Debug.Log("Mort");
+        Destroy(gameObject);
     }
 }
