@@ -1,35 +1,35 @@
-
+using System.Collections;
+using System.Collections.Generic;
+using UnityEditor;
 using UnityEngine;
 
-public class playerbehaviour : MonoBehaviour
+public class PlayerBehavior : MonoBehaviour
+    
 {
-    public float speed = 5;
-    public float jumpForce = 7;
-    public Rigidbody2D rb2b;
-    public float groundedDistance = 2f;
+    public float speed = 5f;
+    public float jumpForce = 10;
+    public Rigidbody2D rb2D;
+    public float groundedDistance = 2;
     public LayerMask groundedMask;
 
-    public Animator animator;
-    public SpriteRenderer nain;
-
     bool IsGrounded()
-    {
+    { 
         RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, groundedDistance, groundedMask);
 
-        if (hit.collider != null)
-        {
-            return true;
-
-        }
-        else
+        if (hit.collider == null)
         {
             return false;
         }
+        else
+        {
+            return true;
+        }
     }
+
     // Start is called before the first frame update
     void Start()
     {
-
+        
     }
 
     // Update is called once per frame
@@ -38,20 +38,14 @@ public class playerbehaviour : MonoBehaviour
         if (Input.GetKey(KeyCode.RightArrow))
         {
             transform.position += Vector3.right * Time.deltaTime * speed;
-            nain.flipX = false;
-
         }
         if (Input.GetKey(KeyCode.LeftArrow))
         {
             transform.position += Vector3.left * Time.deltaTime * speed;
-            nain.flipX = true;
-
         }
-        if (Input.GetKeyDown(KeyCode.Space) && IsGrounded())
+        if (Input.GetKeyDown(KeyCode.Space) && IsGrounded()) 
         {
-            rb2b.velocity = jumpForce * Vector2.up;
+            rb2D.velocity = jumpForce * Vector2.up;
         }
-
-        animator.SetFloat("Speed", speed);
     }
 }
